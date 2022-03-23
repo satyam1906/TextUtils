@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+This project does not comtain the React Routers as Github does not supports React Routers.
 ## Available Scripts
 
 In the project directory, you can run:
